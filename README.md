@@ -41,6 +41,7 @@ npm run dev
 
 
 ===Project Structure===
+
 widget-dashboard/
 │── client/                   # Frontend React app
 │   ├── src/
